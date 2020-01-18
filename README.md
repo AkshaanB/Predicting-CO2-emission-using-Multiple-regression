@@ -1,4 +1,4 @@
-# Predicting-the-car-price
+# Predicting-CO2-emission
 Exercise done in lab session in the online course Coursera Machine Learning with Python
 
-Car price was predicted using Multi linear regression
+CO2 emission was predicted using Multi linear regression
